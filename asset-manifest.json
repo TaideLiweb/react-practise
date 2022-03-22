@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TaideLiweb/react-practise/static/css/main.073c9b0a.css",
+    "main.js": "/TaideLiweb/react-practise/static/js/main.98930202.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TaideLiweb/react-practise/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TaideLiweb/react-practise/index.html",
+    "main.073c9b0a.css.map": "/TaideLiweb/react-practise/static/css/main.073c9b0a.css.map",
+    "main.98930202.js.map": "/TaideLiweb/react-practise/static/js/main.98930202.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TaideLiweb/react-practise/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.98930202.js"
+  ]
+}
